@@ -1,0 +1,1 @@
+Coloca aquí hero-plane.jpg, about-plane.jpg y logo.png
